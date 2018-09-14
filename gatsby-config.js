@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'E.S.C Mattress Center',
+    siteUrl: `https://angry-booth-efe207.netlify.com`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
